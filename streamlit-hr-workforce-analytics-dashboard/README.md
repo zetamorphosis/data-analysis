@@ -9,7 +9,7 @@ The dashboard allows users to explore demographic distributions across multiple 
 
 ## 📸 Dashboard Preview
 
-(streamlit.png)
+![Streamlit HR Dashboard](streamlit.png)
 
 ## Features
 - Gender distribution analysis
