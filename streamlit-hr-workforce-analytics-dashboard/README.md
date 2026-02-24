@@ -7,6 +7,10 @@ This project analyzes employee data from an Excel file and provides interactive 
 
 The dashboard allows users to explore demographic distributions across multiple organizational categories such as department, directorate, job level, and cluster.
 
+## 📸 Dashboard Preview
+
+(streamlit.png)
+
 ## Features
 - Gender distribution analysis
 - Religion distribution analysis
